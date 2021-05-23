@@ -1,0 +1,5 @@
+Jupyter notebook documents Copyright (c) 2020 MONOxIT.inc
+https://www.monoxit.com/
+
+*Python code inside the each notbook document is licensed under The the MIT license https://github.com/YukinobuKurata/YouTubeMagicBuyButton/blob/master/MIT-LICENSE.txt
+
